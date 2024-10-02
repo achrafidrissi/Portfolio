@@ -43,7 +43,7 @@ const certifications = [
         title: 'Spring Boot Certification',
         icon: '/about/springboot.svg',
     },
-    {   src: '/certifications/Laravel.jpg',
+    {   src: '/certifications/LARAVEL.jpg',
         title: 'Laravel Certification',
         icon: '/about/laravel.svg'
     },
