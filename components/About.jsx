@@ -43,9 +43,9 @@ const certifications = [
         title: 'Spring Boot Certification',
         icon: '/about/springboot.svg',
     },
-    {   src: '/certifications/LARAVEL.jpg',
-        title: 'Laravel Certification',
-        icon: '/about/laravel.svg'
+    {   src: '/certifications/React.jpg',
+        title: 'React Certification',
+        icon: '/about/react.svg'
     },
     {   src: '/certifications/OCPJSE17.jpg',
         title: 'Professional Java SE 17',
